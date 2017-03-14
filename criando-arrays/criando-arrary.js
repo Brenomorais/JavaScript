@@ -10,5 +10,6 @@ var nomes = ['Breno','Magda'];
 console.log('Total Nomes', nomes.length);
 
 nomes[4] = 'José';
+
 console.log('Nomes depois do Jose', nomes.length);
 console.log('nome[3]', nomes[3]);
